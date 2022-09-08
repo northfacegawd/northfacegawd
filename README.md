@@ -3,8 +3,8 @@
     src="images/waving.gif"
     alt="snake" 
     width="35"
-  />, 저는 이용준이라고 합니다 :)</h1>
-  <h4 align="center">주니어 프론트엔드 개발자로 활동하고 있습니다.</h4>
+  /></h1>
+  <h4 align="center">주니어 프론트엔드 개발자, 이용준이라고 합니다 :)</h4>
 </div>
 
 <div align="center">
@@ -13,6 +13,8 @@
     alt="snake" 
   />
 </div>
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 사용 기술 스택
 
 <div style="inline:block;">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -27,6 +29,15 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
+
+### ⚡ 최근 GitHub 활동
+
+<br/>
+  <a href="https://github.com/northfacegawd"><img     alt="notrhfacegawd Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=northfacegawd&custom_title=Northfacegawd%27s%20Contribution%20Graph&theme=react-dark" />
+  </a>
+<br/>
+
+### 부록
 
 ![GitHub Statistics](https://raw.githubusercontent.com/northfacegawd/northfacegawd/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/northfacegawd/northfacegawd/output/generated/languages.svg)
