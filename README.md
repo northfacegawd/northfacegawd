@@ -1,3 +1,19 @@
+<div align="center">
+  <h1 align="center">안녕하세요 <img  
+    src="images/waving.gif"
+    alt="snake" 
+    width="35"
+  />, 저는 이용준이라고 합니다 :)</h1>
+  <h4 align="center">주니어 프론트엔드 개발자로 활동하고 있습니다.</h4>
+</div>
+
+<div align="center">
+  <img  
+    src="images/grid-snake.svg"
+    alt="snake" 
+  />
+</div>
+
 <div style="inline:block;">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -10,21 +26,6 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
-
-<div align="center">
-  <h1 align="center">안녕하세요 <img  
-    src="images/waving.gif"
-    alt="snake" 
-  />, 저는 이용준이라고 합니다 :)</h1>
-  <h4 align="center">주니어 프론트엔드 개발자로 활동하고 있습니다.</h4>
-</div>
-
-<div align="center">
-  <img  
-    src="images/grid-snake.svg"
-    alt="snake" 
-  />
 </div>
 
 ![GitHub Statistics](https://raw.githubusercontent.com/northfacegawd/northfacegawd/output/generated/overview.svg)
