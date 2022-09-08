@@ -12,5 +12,20 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
+<div align="center">
+  <h1 align="center">안녕하세요 <img  
+    src="images/waving.gif"
+    alt="snake" 
+  />, 저는 이용준이라고 합니다 :)</h1>
+  <h4 align="center">주니어 프론트엔드 개발자로 활동하고 있습니다.</h4>
+</div>
+
+<div align="center">
+  <img  
+    src="images/grid-snake.svg"
+    alt="snake" 
+  />
+</div>
+
 ![GitHub Statistics](https://raw.githubusercontent.com/northfacegawd/northfacegawd/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/northfacegawd/northfacegawd/output/generated/languages.svg)
