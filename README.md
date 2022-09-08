@@ -1,4 +1,9 @@
 <div align="center">
+<img width="100%" alt="Developer Illustration" src="images/Illustration.gif"/>
+<br />
+<hr />
+
+<div align="center">
   <h1 align="center">안녕하세요 <img  
     src="images/waving.gif"
     alt="snake" 
