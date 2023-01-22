@@ -9,7 +9,7 @@
     alt="snake" 
     width="35"
   /></h1>
-  <h4 align="center">주니어 프론트엔드 개발자, 이용준이라고 합니다 :)</h4>
+  <h4 align="center">프론트엔드 개발자, 이용준이라고 합니다 :)</h4>
 </div>
 
 <div align="center">
