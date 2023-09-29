@@ -2,29 +2,18 @@
 <img width="100%" alt="Developer Illustration" src="images/Illustration.gif"/>
 <br />
 <hr />
-
-<div align="center">
-  <h1 align="center">안녕하세요 <img  
-    src="images/waving.gif"
-    alt="snake" 
-    width="35"
-  /></h1>
-  <h4 align="center">프론트엔드 개발자, 이용준이라고 합니다 :)</h4>
-</div>
-
 <div align="center">
   <img  
     src="images/grid-snake.svg"
     alt="snake" 
   />
 </div>
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 사용 기술 스택
-
 <div style="inline:block;">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Swift-F05032?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-0175C2?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
@@ -34,15 +23,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
-
-### ⚡ 최근 GitHub 활동
-
 <br/>
-  <a href="https://github.com/northfacegawd"><img     alt="notrhfacegawd Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=northfacegawd&custom_title=Northfacegawd%27s%20Contribution%20Graph&theme=react-dark" />
-  </a>
-<br/>
-
-### 부록
 
 ![GitHub Statistics](https://raw.githubusercontent.com/northfacegawd/northfacegawd/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/northfacegawd/northfacegawd/output/generated/languages.svg)
